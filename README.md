@@ -1,1 +1,11 @@
 # portfolio-prep-cs-250
+#Lawrence Arundel CS 250 Assignment 8-2 Journal
+
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+The way I interpret user needs and implement them into a program is by reflecting on what the user expects. Reflecting on how to implement the user needs depends on the type of structures implemented within the framework. Conducting meetings with the software development team and creating an environment where communication is key helps to implement the user's needs too. User stories can also help facilitate this because they help organize the various tasks the user needs to implement within the program. Without the user stories, tasks can become more strenuous on the team, and efficiency and productivity can be hindered.
+
+**How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
+How I approach developing programs is by reflecting on possible constraints first. Then I try to balance out the amount of time each task may take by prioritizing. By this, I mean tasks will be prioritized by the time it takes to complete them. You can understand this by first understanding user stories, which break down tasks by labeling them as "large," "medium," or "small." After identifying the tasks, they begin to test each task until the desired result is produced. Lastly, I reflect on what was implemented before moving onto the next task. The agile processes that I hope to incorporate into my future development work are SAFe, Kanban, DevOps, and Scrum at Sales (S@S).
+
+**What does it mean to be a good team member in software development?**
+What it means to be a good team member in software development means having integrity, holding responsibility, being accountable, and being humble towards criticism. Being a good team member also means being a great team player, understanding knowledge bases and materials, and also upholding core values that align with the attitude of the team. Lastly, I believe being a good team member means being open to new ideas and continuously evolving your perspective. By doing this, you can easily adapt to most and all situations that the team may have to overcome. Through overcoming these situations, you can help solidify your values as being a good team member.
