@@ -1,0 +1,27 @@
+Overview
+This assignment will help you continue your exploration of the Java programming language and the Eclipse environment. 
+This will help prepare you for the tasks you need to complete when you assume the role of developer in Module Five. 
+You will be asked to run an existing program and then make small changes to customize it.
+
+Prompt
+To continue your exploration of the Java programming language and the Eclipse environment, you will modify an 
+existing program to fulfill a user story. To do this, run the program provided and then make your changes by 
+completing the following steps:
+
+
+Download the SampleListView ZIP file to your computer. Right-click on the folder and select “Extract All…”. 
+In the unzipped folder, find and run the BasicListViewControl JAR file. This will allow you to see the template 
+before you make customizations.
+Import the BasicListViewControl ZIP file to a new project in your Eclipse IDE. For help with importing a ZIP file to 
+Eclipse, review the Uploading Files to Eclipse Tutorial Word Document.
+Using the source code given, update the simple list to your top five chosen destinations. Include the destination 
+title, a short description, and a small image for each. This will help ensure that you have fulfilled the acceptance 
+criteria of the user story. Refer to the Developing Basic ListView Control Tutorial to help you with this task.
+Add images and additional customizations.
+Add images for each destination and at least one additional customization, color scheme, or the like to make the 
+control as elaborate as you want. Be sure to include clear and concise comments to explain your changes.
+Wikimedia Commons is an excellent source for copyright-free images. Be sure to credit the author or creator.
+For additional information on adding images to a Java project, watch this video: Loading Resources in Java Using 
+Eclipse IDE (4:01). A transcript is available here: CS 250 Loading Resources in Java Using Eclipse IDE Video 
+Transcript Word Document.
+Finally, add a label with your name on it.
