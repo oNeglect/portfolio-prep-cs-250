@@ -1,0 +1,30 @@
+Overview
+Sometimes, in the course of a development, the requirements for a project will change and adapt. When this happens, 
+the Product Owner will need to re-prioritize the Product Backlog so that the team can focus on the features deemed 
+most important. Typically, the new features would be broken down into user stories that are deemed “ready to work” by 
+the team. This ensures that everyone understands the new features and the team’s adjusted priorities. 
+In this assignment, your Product Owner will announce an adjusted feature for the SNHU Travel project. 
+You will assume the role of developer and make the changes to existing code based on the new information from the 
+Product Owner.
+
+
+Prompt
+Watch the Product Owner and Scrum-agile Team Animation PDF interaction between the Product Owner and the rest of the 
+Scrum Team. A text version of the animation is available here: CS 250 Product Owner and Scrum-agile Team Animation 
+Text Version Word Document.
+
+As the developer, you have been asked to modify existing code so that it fulfills the new requirements from the 
+Product Owner.
+
+Download the Slide Show.zip file for the updated Slide Show control the Product Owner gave you in Module Four, and 
+import it into Eclipse.
+Update the Slide Show control with pictures and text for the new requirements specified by the Product Owner this week.
+Note: Carefully read through the code that you have been given first. Be sure to only change the elements related to 
+the updated requirements from the Product Owner.
+Provide specific comments that explain the purpose of lines or sections of your code and detail the approach and 
+method you took to achieve a specific task in the code.
+After you have finished completing your assignment, check the code you created. Ask yourself the following questions 
+as you review your work:
+Did I revise all appropriate sections of code related to the new requirements?
+Is the software functional?
+Did I add comments to explain the changes I made and why I made them?
